@@ -1,0 +1,32 @@
+config 2 NPN et bobine de 25m, 0,3mm (approximé à 850 spires) :
+Moment magnétique : 0.08099999999999999 Am²
+Résistance de la bobine : 2.18997201694448
+Courant par défaut dans la bobine : 0.34904070780834817 A
+Force : 0.252506613235579 N
+R2 R4 R5 R6 R7 : 1 5 5 6 5
+PNP = 0.45489103330106445 A >>>>> Force PNP: 0.3290819427089688 N
+NPN = 0.19120492992340152 A >>>>> Force NPN: 0.2766468678800312 N
+--------------------------------------------
+config 3 NPN et bobine de 25m, 0.3mm (approximé à 850 spires) :
+Moment magnétique : 0.08099999999999999 Am²
+Résistance de la bobine : 2.18997201694448
+Courant par défaut dans la bobine : 0.34904070780834817 A
+Force : 0.252506613235579 N
+R2 R4 R5 R6 R7 : 1 5 2 5 5
+PNP = 0.5888141782943908 A >>>>> Force PNP: 0.42596599955282044 N
+NPN = 0.18421908090384728 A >>>>> Force NPN: 0.39980897790818404 N
+calculs à refaire
+
+
+NEW
+config 2 NPN et bobine de 25m, 0,3mm (approximé à 850 spires) :
+Moment magnétique : 0.08099999999999999 Am²
+Résistance de la bobine : 6.083255602623556
+Courant par défaut dans la bobine : 0.4 A
+Force totale : 0.2893721077075351 N
+R2 R4 R5 R6 R7 : 1 5 1 6 1
+PNP = 0.660556111430685 A >>>>> Force totale PNP: 0.3610488055594767 N
+NPN = 0.19251432925831802 A par NPN >>>>> Force totale NPN: 0.3953588661069094 N
+--------------------------------------------
+config 3 NPN - 2 PNP et bobine de 25m, 0,3mm (approximé à 850 spires) :
+inconcevable (limité par le voltage)
